@@ -1,0 +1,18 @@
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/Study_and_Dev/OneDrive - 고려대학교/koreauniv/Algorithm/freshmen winter vacation algorithm study/brute-force/2231분해합/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_9fc81/fast && C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_9fc81.dir\build.make CMakeFiles/cmTC_9fc81.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/Study_and_Dev/OneDrive - 고려대학교/koreauniv/Algorithm/freshmen winter vacation algorithm study/brute-force/2231분해합/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_9fc81.dir/testCCompiler.c.obj
+C:\MinGW\bin\gcc.exe    -o CMakeFiles\cmTC_9fc81.dir\testCCompiler.c.obj   -c "C:\Users\Study_and_Dev\OneDrive - 怨좊젮??숆탳\koreauniv\Algorithm\freshmen winter vacation algorithm study\brute-force\2231遺꾪빐??cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c"
+gcc.exe: error: C:\Users\Study_and_Dev\OneDrive - 怨좊젮??숆탳\koreauniv\Algorithm\freshmen winter vacation algorithm study\brute-force\2231遺꾪빐??cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c: Invalid argument
+gcc.exe: fatal error: no input files
+compilation terminated.
+CMakeFiles\cmTC_9fc81.dir\build.make:64: recipe for target 'CMakeFiles/cmTC_9fc81.dir/testCCompiler.c.obj' failed
+mingw32-make.exe[1]: *** [CMakeFiles/cmTC_9fc81.dir/testCCompiler.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/Users/Study_and_Dev/OneDrive - 고려대학교/koreauniv/Algorithm/freshmen winter vacation algorithm study/brute-force/2231분해합/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:120: recipe for target 'cmTC_9fc81/fast' failed
+mingw32-make.exe: *** [cmTC_9fc81/fast] Error 2
+
+
+

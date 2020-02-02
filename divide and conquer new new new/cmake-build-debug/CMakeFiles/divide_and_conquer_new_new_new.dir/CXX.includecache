@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Study_and_Dev/OneDrive - KoreaUniv/notKoreaUniv/Algorithm/freshmen winter vacation algorithm study/divide and conquer new new new/main.cpp
+iostream
+-
+

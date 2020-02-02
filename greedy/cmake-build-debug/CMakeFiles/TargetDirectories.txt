@@ -1,0 +1,3 @@
+C:/Users/Study_and_Dev/OneDrive - KoreaUniv/koreauniv/Algorithm/freshmen winter vacation algorithm study/greedy/cmake-build-debug/CMakeFiles/greedy.dir
+C:/Users/Study_and_Dev/OneDrive - KoreaUniv/koreauniv/Algorithm/freshmen winter vacation algorithm study/greedy/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Study_and_Dev/OneDrive - KoreaUniv/koreauniv/Algorithm/freshmen winter vacation algorithm study/greedy/cmake-build-debug/CMakeFiles/rebuild_cache.dir

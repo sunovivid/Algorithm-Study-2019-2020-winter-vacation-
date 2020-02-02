@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Study_and_Dev/OneDrive - KoreaUniv/koreauniv/Algorithm/freshmen winter vacation algorithm study/greedy/main.cpp
+iostream
+-
+algorithm
+-
+vector
+-
+utility
+-
+list
+-
+
